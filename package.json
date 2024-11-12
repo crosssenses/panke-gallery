@@ -23,7 +23,7 @@
     "gatsby-plugin-react-helmet": "^6.13.0",
     "gatsby-plugin-sass": "^6.13.0",
     "gatsby-plugin-sharp": "^5.13.0",
-    "gatsby-source-contentful": "^8.13.0",
+    "gatsby-source-contentful": "^8.14.0",
     "gatsby-transformer-remark": "^6.13.0",
     "i": "^0.3.7",
     "lodash": "^4.17.21",
@@ -36,7 +36,7 @@
     "react-player": "^2.14.1",
     "react-responsive-carousel": "^3.2.23",
     "react-youtube": "^10.1.0",
-    "sharp": "^0.33.1"
+    "sharp": "^0.32.6"
   },
   "homepage": "https://github.com/crosssenses/panke-gallery#readme",
   "keywords": [
